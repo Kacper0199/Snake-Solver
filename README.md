@@ -8,7 +8,7 @@
   <a href="">![Repo Language](https://img.shields.io/github/languages/top/Kacper0199/Snake-Solver)</a>
   <a href="">![License](https://img.shields.io/github/license/Kacper0199/Snake-Solver?color=blueviolet)</a>
   <a href="">![Repo Elements](https://img.shields.io/github/directory-file-count/Kacper0199/Snake-Solver?color=yellow)</a>
-  <a href="">![Downloads](https://img.shields.io/github/downloads/Kacper0199/Snake-Solver/total?color=green)</a>
+  <a href="">![Downloads](https://img.shields.io/github/downloads/Kacper0199/Snake-Solver/latest/total?color=green)</a>
 
 </div>
 
